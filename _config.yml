@@ -1,0 +1,16 @@
+name: Eternity Documentation
+description: Eternity Official Documentation
+
+markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+color_scheme: wider
+search_enabled: true
+search.button: true
+aux_links:
+  "Documentation on GitHub":
+    - "https://github.com/Wargamer3/Project-Eternity-Guides"
+  "Home":
+    - "https://wargamer3.github.io/Project-Eternity/"
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
