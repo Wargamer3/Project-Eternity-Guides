@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating Characters
-parent: Quick Start
+parent: Super Robot Wars Quick Start
 nav_order: 3
 published: true
 ---

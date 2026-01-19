@@ -1,3 +1,10 @@
+---
+layout: default
+title: Useful Links
+nav_order: 7
+published: true
+---
+
 ## Useful Links
 
 Eternity Discord

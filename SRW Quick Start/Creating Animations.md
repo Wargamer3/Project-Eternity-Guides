@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating Animations
-parent: Quick Start
+parent: Super Robot Wars Quick Start
 nav_order: 6
 published: true
 ---

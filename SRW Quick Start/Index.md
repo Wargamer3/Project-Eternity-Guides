@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quick Start
+title: Super Robot Wars Quick Start
 nav_order: 4
 has_children: true
 published: true

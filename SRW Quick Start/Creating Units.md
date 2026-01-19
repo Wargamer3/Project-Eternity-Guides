@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating Units
-parent: Quick Start
+parent: Super Robot Wars Quick Start
 nav_order: 2
 published: true
 ---

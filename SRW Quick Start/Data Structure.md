@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Structure
-parent: Making a game
+parent: Super Robot Wars Quick Start
 nav_order: 1
 ---
 ![GUI.png](/Images/GUI.png)

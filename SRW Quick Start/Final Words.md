@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Final Words
-parent: Quick Start
+parent: Super Robot Wars Quick Start
 nav_order: 10
 published: true
 ---

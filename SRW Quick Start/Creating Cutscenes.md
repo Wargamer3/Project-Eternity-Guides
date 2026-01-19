@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating Cutscenes
-parent: Quick Start
+parent: Super Robot Wars Quick Start
 nav_order: 5
 published: true
 ---

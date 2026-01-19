@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Installation for making SRW games
+title: Installation for making games
 nav_order: 2
 published: true
 ---
 
-## Installation for making SRW games
+## Installation for making games
 
 Be sure to have installed the latest Microsoft XNA Framework Redistributable: 
 [http://www.microsoft.com/download/en/details.aspx?id=20914](http://www.microsoft.com/download/en/details.aspx?id=20914)

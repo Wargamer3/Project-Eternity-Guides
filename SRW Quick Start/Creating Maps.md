@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating Maps
-parent: Quick Start
+parent: Super Robot Wars Quick Start
 nav_order: 4
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Creating Visual Novels
-parent: Quick Start
+title: Creating Dialog
+parent: Culdcept Quick Start
 nav_order: 5
 published: true
 ---
